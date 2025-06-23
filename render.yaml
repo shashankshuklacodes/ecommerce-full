@@ -3,7 +3,7 @@ services:
     name: ecommerce-backend
     env: node
     plan: free
-    repo: https://github.com/your-username/ecommerce-full
+    repo: https://github.com/shashankshuklacodes/ecommerce-full
     branch: main
     rootDir: backend
     buildCommand: npm install
